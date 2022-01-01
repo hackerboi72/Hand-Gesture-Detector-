@@ -1,0 +1,1 @@
+The Link Of the nerual netowrk = https://teachablemachine.withgoogle.com/models/JtubYw8hc/
